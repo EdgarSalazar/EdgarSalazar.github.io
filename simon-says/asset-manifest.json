@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b95cc14.chunk.css",
+    "main.js": "/static/js/main.fc54dd15.chunk.js",
+    "main.js.map": "/static/js/main.fc54dd15.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.927810f2219420a5a7deb2fc49249ebd.js": "/precache-manifest.927810f2219420a5a7deb2fc49249ebd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4b95cc14.chunk.css.map": "/static/css/main.4b95cc14.chunk.css.map",
+    "static/media/lose.mp3": "/static/media/lose.56fd51fe.mp3"
+  }
+}
