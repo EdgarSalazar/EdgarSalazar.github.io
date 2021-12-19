@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "6e8f566f734e1a2b01a85048d8c291aa",
-"index.html": "f585fe7e6e62fa56789a76e4875f89f0",
-"/": "f585fe7e6e62fa56789a76e4875f89f0",
-"main.dart.js": "aa141c8754652f085447455ff564b01e",
+"index.html": "abb98a8791d57d364e26b7bac7761818",
+"/": "abb98a8791d57d364e26b7bac7761818",
+"main.dart.js": "3be56cf05f745f26b597b5953516f477",
 "icons/favicon-16x16.png": "8377082132ba92624a084a7da4dbc11b",
 "icons/favicon.ico": "1856ace050cf694b8ff5388ddae93ce6",
 "icons/apple-icon.png": "b47c20adbe98312a09ae84ffe9221131",
@@ -41,7 +41,11 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/flags/brazil.svg": "959af1e7a2d161e0fa1210d2c16af577",
 "assets/assets/flags/united-states.svg": "aefba3fef673e14305b112b0e82805fe",
-"assets/assets/fireworks-particle.png": "db9cd9d0f841a501771c67f1c75bbc72"
+"assets/assets/fireworks-particle.png": "db9cd9d0f841a501771c67f1c75bbc72",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
 };
 
 // The application shell files that are downloaded before a service worker can
