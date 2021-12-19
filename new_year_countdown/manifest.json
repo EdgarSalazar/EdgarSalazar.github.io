@@ -1,6 +1,6 @@
 {
-    "name": "ano_novo",
-    "short_name": "ano_novo",
+    "name": "new_year_countdown",
+    "short_name": "new_year_countdown",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
